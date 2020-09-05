@@ -1,2 +1,2 @@
-# BlueGreenECS
-blugreenDeployment using ECS
+# pgpcc-capstone-covid
+ PGPCC Capstone project
