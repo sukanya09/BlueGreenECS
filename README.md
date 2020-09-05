@@ -1,0 +1,2 @@
+# BlueGreenECS
+blugreenDeployment using ECS
